@@ -1,12 +1,17 @@
 # LoginLogoutApplication
 Here is the overview of my application 😊
+
 It's the login page.
-![Screenshot (160)](https://github.com/KumarAryan01/LoginLogoutApplication/assets/83201511/3198f9a3-76fe-413d-8402-130515be4e51)
+![Screenshot (160)](https://github.com/KumarAryan01/LoginLogoutApplication/assets/83201511/b63decff-58f4-42db-90ac-8c835f974238)
+
 Register Page
-![Screenshot (161)](https://github.com/KumarAryan01/LoginLogoutApplication/assets/83201511/cf50aca7-f9f3-4cdf-963a-ee8c80dc6def)
+![Screenshot (161)](https://github.com/KumarAryan01/LoginLogoutApplication/assets/83201511/1c303e72-f347-4fcd-a697-77b65bd05962)
+
 Home page of student portal
-![Screenshot (166)](https://github.com/KumarAryan01/LoginLogoutApplication/assets/83201511/c6b4b264-a5a8-4ff4-8d3b-3e6ea33234bc)
+![Screenshot (166)](https://github.com/KumarAryan01/LoginLogoutApplication/assets/83201511/89538772-a52c-4afd-a99e-09f078a445d8)
+
 Contact Page
-![Screenshot (167)](https://github.com/KumarAryan01/LoginLogoutApplication/assets/83201511/d08f2bb8-ef75-48b1-9ac0-7743a953ca80)
+![Screenshot (167)](https://github.com/KumarAryan01/LoginLogoutApplication/assets/83201511/5881096d-0b5a-41f8-87eb-ddbe70a1fba8)
+
 
 
